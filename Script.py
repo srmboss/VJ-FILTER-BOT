@@ -246,9 +246,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+<b>⚙️ sɪᴢᴇ : {file_size}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b>» <a href="https://t.me/srm_request_movie">Mᴏᴠɪᴇs Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ</a> «
+<b>» <a href="https://t.me/srm_movies">Uᴘᴅᴀᴛᴇ Cʜᴀɴɴᴇʟ Lɪɴᴋs</a> «</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
